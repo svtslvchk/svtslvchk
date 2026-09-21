@@ -55,6 +55,23 @@ Pydantic · Alembic · Docker · Pytest
 
 ---
 
+### TeamFinder
+
+Веб-платформа для поиска участников в команды и совместной работы над проектами.
+
+**Stack:** Python · Django · PostgreSQL · Docker · Pytest · GitHub Actions
+
+- Регистрация и профили пользователей
+- Создание проектов и поиск участников в команды
+- PostgreSQL для хранения данных
+- Автоматизированные тесты
+- CI/CD через GitHub Actions
+- Проверка качества кода с Black и isort
+
+[→ Repository](https://github.com/svtslvchk/team-finder-ad)
+
+---
+
 ### User Segmentation Service
 
 Сервис сегментирования пользователей.
@@ -66,7 +83,7 @@ Pydantic · Alembic · Docker · Pytest
 - PostgreSQL
 - REST API
 
-[→ Repository](...)
+[→ Repository](https://github.com/svtslvchk/VK_SegmentService)
 
 ---
 
