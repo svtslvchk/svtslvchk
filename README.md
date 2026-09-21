@@ -51,7 +51,7 @@ Pydantic · Alembic · Docker · Pytest
 - PostgreSQL и миграции Alembic
 - Интеграционные тесты
 
-[→ Repository](https://github.com/svtslvchk/MeetingBookingRoom)
+[→ Repository](https://github.com/svtslvchk/BookingMeetingRooms)
 
 ---
 
