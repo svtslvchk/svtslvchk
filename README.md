@@ -12,7 +12,7 @@ Pydantic и Git.
 
 ## 📫 Contacts
 
-Telegram: @svtaslvchk
+Telegram: @svtslvchk
 Email: solovevsr@gmail.com
 
 ---
@@ -31,7 +31,7 @@ Pytest · Integration Testing
 ### Tools
 Docker · Git · Linux · Nginx
 
-### Other
+### Other languages
 Go · C# · C · C++
 
 ---
@@ -105,3 +105,4 @@ Pydantic · Alembic · Docker · Pytest
 
 **Moscow Aviation Institute (MAI)**  
 Fundamental Informatics and Information Technologies
+3rd year · 2024–2028
