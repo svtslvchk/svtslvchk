@@ -10,14 +10,14 @@ Pydantic и Git.
 
 ---
 
-## 📫 Contacts
+##  Contacts
 
 Telegram: @svtslvchk
 Email: solovevsr@gmail.com
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 ### Backend
 Python · FastAPI · Asyncio · SQLAlchemy · Pydantic · Alembic
@@ -36,7 +36,7 @@ Go · C# · C · C++
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 ### Meeting Room Booking API
 
@@ -87,21 +87,7 @@ Pydantic · Alembic · Docker · Pytest
 
 ---
 
-## 📚 Algorithms & Data Structures
-
-Регулярно решаю алгоритмические задачи на LeetCode.
-
-Изучаю:
-
-- структуры данных
-- DFS / BFS
-- алгоритмы сортировки
-- строковые алгоритмы
-- оценку временной и пространственной сложности
-
----
-
-## 🎓 Education
+##  Education
 
 **Moscow Aviation Institute (MAI)**  
 Fundamental Informatics and Information Technologies
